@@ -1,0 +1,58 @@
+---
+title: "Exploring_vale_datasets"
+author: "Ruben Lopez"
+date: "2/15/2021"
+output: 
+  html_document: 
+    toc_depth: 10
+    df_print: tibble
+editor_options:
+  markdown:
+  canonical: true
+  chunk_output_type: inline
+---
+
+```{r}
+pacman::p_load(tidyverse, readxl)
+
+```
+
+```{r}
+home_dir <- getwd()
+```
+
+\#\#\# Load the full dataset
+
+```{r}
+# df <- home_dir %>%
+home_dir %>%
+  paste("raw_files_dataset", 
+        "HRD_countryyear.RData",
+        sep = "/") %>% 
+  load(file = ., envir = .GlobalEnv)
+  
+```
+
+```{r}
+reg
+
+```
+
+
+### Select the entries for 21st century and variables you need
+
+```{r}
+
+my_vars = c("country.name", "year", "startyear", "endyear", 
+            "regime.name.",  "reginfo", "notes.to.v3regenddate")
+
+century21_reg <- reg %>% 
+  filter(year >= 2000) %>% 
+  select(all_of(my_vars)) %>% 
+  as.tibble()
+```
+
+```{r}
+century21_reg 
+
+```
