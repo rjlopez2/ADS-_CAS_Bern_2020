@@ -1,0 +1,1486 @@
+country_name,country_code,year,Current health expenditure (% of GDP)
+Afghanistan,AFG,2010,8.57
+Afghanistan,AFG,2011,8.562
+Afghanistan,AFG,2012,7.897
+Afghanistan,AFG,2013,8.806
+Afghanistan,AFG,2014,9.529
+Afghanistan,AFG,2015,10.105
+Afghanistan,AFG,2016,10.962
+Afghanistan,AFG,2017,11.777
+Angola,AGO,2010,2.695
+Angola,AGO,2011,2.646
+Angola,AGO,2012,2.396
+Angola,AGO,2013,2.733
+Angola,AGO,2014,2.434
+Angola,AGO,2015,2.606
+Angola,AGO,2016,2.713
+Angola,AGO,2017,2.792
+Andorra,AND,2010,9.45
+Andorra,AND,2011,9.766
+Andorra,AND,2012,10.047
+Andorra,AND,2013,10.112
+Andorra,AND,2014,10.276
+Andorra,AND,2015,10.253
+Andorra,AND,2016,10.324
+Andorra,AND,2017,10.321
+United Arab Emirates,ARE,2010,3.879
+United Arab Emirates,ARE,2011,3.67
+United Arab Emirates,ARE,2012,3.425
+United Arab Emirates,ARE,2013,3.593
+United Arab Emirates,ARE,2014,3.63
+United Arab Emirates,ARE,2015,3.584
+United Arab Emirates,ARE,2016,3.403
+United Arab Emirates,ARE,2017,3.334
+Argentina,ARG,2010,8.614
+Argentina,ARG,2011,8.397
+Argentina,ARG,2012,8.457
+Argentina,ARG,2013,8.371
+Argentina,ARG,2014,8.258
+Argentina,ARG,2015,8.789
+Argentina,ARG,2016,7.544
+Argentina,ARG,2017,9.124
+Armenia,ARM,2010,9.235
+Armenia,ARM,2011,9.376
+Armenia,ARM,2012,9.135
+Armenia,ARM,2013,10.323
+Armenia,ARM,2014,10.178
+Armenia,ARM,2015,10.118
+Armenia,ARM,2016,9.952
+Armenia,ARM,2017,10.363
+Antigua and Barbuda,ATG,2010,5.187
+Antigua and Barbuda,ATG,2011,5.296
+Antigua and Barbuda,ATG,2012,5.191
+Antigua and Barbuda,ATG,2013,5.417
+Antigua and Barbuda,ATG,2014,5.252
+Antigua and Barbuda,ATG,2015,4.702
+Antigua and Barbuda,ATG,2016,4.357
+Antigua and Barbuda,ATG,2017,4.534
+Australia,AUS,2010,8.431
+Australia,AUS,2011,8.542
+Australia,AUS,2012,8.676
+Australia,AUS,2013,8.759
+Australia,AUS,2014,9.038
+Australia,AUS,2015,9.315
+Australia,AUS,2016,9.196
+Australia,AUS,2017,9.206
+Austria,AUT,2010,10.221
+Austria,AUT,2011,10.026
+Austria,AUT,2012,10.199
+Austria,AUT,2013,10.286
+Austria,AUT,2014,10.368
+Austria,AUT,2015,10.368
+Austria,AUT,2016,10.419
+Austria,AUT,2017,10.397
+Azerbaijan,AZE,2010,4.768
+Azerbaijan,AZE,2011,4.508
+Azerbaijan,AZE,2012,4.902
+Azerbaijan,AZE,2013,5.054
+Azerbaijan,AZE,2014,5.468
+Azerbaijan,AZE,2015,6.714
+Azerbaijan,AZE,2016,6.663
+Azerbaijan,AZE,2017,6.652
+Burundi,BDI,2010,11.276
+Burundi,BDI,2011,10.07
+Burundi,BDI,2012,8.527
+Burundi,BDI,2013,8.143
+Burundi,BDI,2014,6.889
+Burundi,BDI,2015,6.579
+Burundi,BDI,2016,7.492
+Burundi,BDI,2017,7.518
+Belgium,BEL,2010,9.975
+Belgium,BEL,2011,10.137
+Belgium,BEL,2012,10.266
+Belgium,BEL,2013,10.37
+Belgium,BEL,2014,10.414
+Belgium,BEL,2015,10.28
+Belgium,BEL,2016,10.304
+Belgium,BEL,2017,10.339
+Benin,BEN,2010,4.09
+Benin,BEN,2011,4.222
+Benin,BEN,2012,4.666
+Benin,BEN,2013,3.907
+Benin,BEN,2014,3.646
+Benin,BEN,2015,3.992
+Benin,BEN,2016,3.856
+Benin,BEN,2017,3.719
+Burkina Faso,BFA,2010,5.893
+Burkina Faso,BFA,2011,5.23
+Burkina Faso,BFA,2012,5.178
+Burkina Faso,BFA,2013,6.256
+Burkina Faso,BFA,2014,5.625
+Burkina Faso,BFA,2015,5.825
+Burkina Faso,BFA,2016,7.013
+Burkina Faso,BFA,2017,6.915
+Bangladesh,BGD,2010,2.496
+Bangladesh,BGD,2011,2.566
+Bangladesh,BGD,2012,2.573
+Bangladesh,BGD,2013,2.503
+Bangladesh,BGD,2014,2.496
+Bangladesh,BGD,2015,2.463
+Bangladesh,BGD,2016,2.312
+Bangladesh,BGD,2017,2.274
+Bulgaria,BGR,2010,7.106
+Bulgaria,BGR,2011,7.135
+Bulgaria,BGR,2012,7.594
+Bulgaria,BGR,2013,7.868
+Bulgaria,BGR,2014,8.499
+Bulgaria,BGR,2015,8.203
+Bulgaria,BGR,2016,8.23
+Bulgaria,BGR,2017,8.096
+Bahrain,BHR,2010,3.843
+Bahrain,BHR,2011,3.577
+Bahrain,BHR,2012,4.106
+Bahrain,BHR,2013,4.311
+Bahrain,BHR,2014,4.407
+Bahrain,BHR,2015,4.975
+Bahrain,BHR,2016,4.858
+Bahrain,BHR,2017,4.748
+Bahamas,BHS,2010,5.924
+Bahamas,BHS,2011,6.049
+Bahamas,BHS,2012,6.048
+Bahamas,BHS,2013,6.025
+Bahamas,BHS,2014,5.891
+Bahamas,BHS,2015,5.714
+Bahamas,BHS,2016,6.071
+Bahamas,BHS,2017,5.759
+Bosnia and Herzegovina,BIH,2010,9.019
+Bosnia and Herzegovina,BIH,2011,9.179
+Bosnia and Herzegovina,BIH,2012,9.49
+Bosnia and Herzegovina,BIH,2013,9.487
+Bosnia and Herzegovina,BIH,2014,9.475
+Bosnia and Herzegovina,BIH,2015,9.34
+Bosnia and Herzegovina,BIH,2016,9.228
+Bosnia and Herzegovina,BIH,2017,8.932
+Belarus,BLR,2010,5.657
+Belarus,BLR,2011,4.874
+Belarus,BLR,2012,5.245
+Belarus,BLR,2013,5.696
+Belarus,BLR,2014,5.388
+Belarus,BLR,2015,6.065
+Belarus,BLR,2016,5.911
+Belarus,BLR,2017,5.926
+Belize,BLZ,2010,5.764
+Belize,BLZ,2011,5.634
+Belize,BLZ,2012,5.372
+Belize,BLZ,2013,5.698
+Belize,BLZ,2014,5.674
+Belize,BLZ,2015,5.903
+Belize,BLZ,2016,6.097
+Belize,BLZ,2017,5.643
+Bolivia (Plurinational State of),BOL,2010,5.473
+Bolivia (Plurinational State of),BOL,2011,5.493
+Bolivia (Plurinational State of),BOL,2012,5.374
+Bolivia (Plurinational State of),BOL,2013,5.735
+Bolivia (Plurinational State of),BOL,2014,5.965
+Bolivia (Plurinational State of),BOL,2015,6.617
+Bolivia (Plurinational State of),BOL,2016,6.853
+Bolivia (Plurinational State of),BOL,2017,6.443
+Brazil,BRA,2010,7.949
+Brazil,BRA,2011,7.788
+Brazil,BRA,2012,7.735
+Brazil,BRA,2013,7.977
+Brazil,BRA,2014,8.396
+Brazil,BRA,2015,8.87
+Brazil,BRA,2016,9.206
+Brazil,BRA,2017,9.467
+Barbados,BRB,2010,6.774
+Barbados,BRB,2011,6.899
+Barbados,BRB,2012,7.778
+Barbados,BRB,2013,7.599
+Barbados,BRB,2014,7.107
+Barbados,BRB,2015,6.967
+Barbados,BRB,2016,6.852
+Barbados,BRB,2017,6.779
+Brunei Darussalam,BRN,2010,2.278
+Brunei Darussalam,BRN,2011,1.864
+Brunei Darussalam,BRN,2012,1.851
+Brunei Darussalam,BRN,2013,1.898
+Brunei Darussalam,BRN,2014,1.914
+Brunei Darussalam,BRN,2015,2.387
+Brunei Darussalam,BRN,2016,2.548
+Brunei Darussalam,BRN,2017,2.373
+Bhutan,BTN,2010,3.474
+Bhutan,BTN,2011,3.27
+Bhutan,BTN,2012,3.534
+Bhutan,BTN,2013,3.621
+Bhutan,BTN,2014,3.469
+Bhutan,BTN,2015,3.658
+Bhutan,BTN,2016,3.488
+Bhutan,BTN,2017,3.187
+Botswana,BWA,2010,6.194
+Botswana,BWA,2011,5.777
+Botswana,BWA,2012,6.141
+Botswana,BWA,2013,6.224
+Botswana,BWA,2014,5.598
+Botswana,BWA,2015,5.726
+Botswana,BWA,2016,5.561
+Botswana,BWA,2017,6.135
+Central African Republic,CAF,2010,3.742
+Central African Republic,CAF,2011,3.823
+Central African Republic,CAF,2012,3.874
+Central African Republic,CAF,2013,4.843
+Central African Republic,CAF,2014,4.853
+Central African Republic,CAF,2015,6.309
+Central African Republic,CAF,2016,4.282
+Central African Republic,CAF,2017,5.822
+Canada,CAN,2010,10.682
+Canada,CAN,2011,10.353
+Canada,CAN,2012,10.348
+Canada,CAN,2013,10.227
+Canada,CAN,2014,10.056
+Canada,CAN,2015,10.511
+Canada,CAN,2016,10.738
+Canada,CAN,2017,10.573
+Switzerland,CHE,2010,10.699
+Switzerland,CHE,2011,10.769
+Switzerland,CHE,2012,11.058
+Switzerland,CHE,2013,11.314
+Switzerland,CHE,2014,11.494
+Switzerland,CHE,2015,11.884
+Switzerland,CHE,2016,12.221
+Switzerland,CHE,2017,12.346
+Chile,CHL,2010,6.775
+Chile,CHL,2011,6.772
+Chile,CHL,2012,7.021
+Chile,CHL,2013,7.445
+Chile,CHL,2014,7.807
+Chile,CHL,2015,8.303
+Chile,CHL,2016,8.517
+Chile,CHL,2017,8.984
+China,CHN,2010,4.208
+China,CHN,2011,4.326
+China,CHN,2012,4.549
+China,CHN,2013,4.71
+China,CHN,2014,4.773
+China,CHN,2015,4.889
+China,CHN,2016,4.982
+China,CHN,2017,5.151
+Cote d'Ivoire,CIV,2010,6.104
+Cote d'Ivoire,CIV,2011,6.078
+Cote d'Ivoire,CIV,2012,6.12
+Cote d'Ivoire,CIV,2013,5.139
+Cote d'Ivoire,CIV,2014,5.157
+Cote d'Ivoire,CIV,2015,4.422
+Cote d'Ivoire,CIV,2016,4.536
+Cote d'Ivoire,CIV,2017,4.453
+Cameroon,CMR,2010,4.504
+Cameroon,CMR,2011,3.399
+Cameroon,CMR,2012,4.542
+Cameroon,CMR,2013,4.503
+Cameroon,CMR,2014,4.534
+Cameroon,CMR,2015,4.7
+Cameroon,CMR,2016,4.679
+Cameroon,CMR,2017,4.671
+Congo (Democratic Republic of the),COD,2010,4.019
+Congo (Democratic Republic of the),COD,2011,3.432
+Congo (Democratic Republic of the),COD,2012,3.568
+Congo (Democratic Republic of the),COD,2013,3.565
+Congo (Democratic Republic of the),COD,2014,3.979
+Congo (Democratic Republic of the),COD,2015,3.942
+Congo (Democratic Republic of the),COD,2016,3.887
+Congo (Democratic Republic of the),COD,2017,3.979
+Congo,COG,2010,1.981
+Congo,COG,2011,1.852
+Congo,COG,2012,2.474
+Congo,COG,2013,2.488
+Congo,COG,2014,2.507
+Congo,COG,2015,3.415
+Congo,COG,2016,3.487
+Congo,COG,2017,2.93
+Colombia,COL,2010,7.083
+Colombia,COL,2011,6.791
+Colombia,COL,2012,6.752
+Colombia,COL,2013,7.263
+Colombia,COL,2014,7.147
+Colombia,COL,2015,7.297
+Colombia,COL,2016,7.214
+Colombia,COL,2017,7.226
+Comoros,COM,2010,8.515
+Comoros,COM,2011,9.099
+Comoros,COM,2012,7.928
+Comoros,COM,2013,7.767
+Comoros,COM,2014,7.585
+Comoros,COM,2015,7.775
+Comoros,COM,2016,7.487
+Comoros,COM,2017,7.384
+Cabo Verde,CPV,2010,4.476
+Cabo Verde,CPV,2011,4.305
+Cabo Verde,CPV,2012,5.134
+Cabo Verde,CPV,2013,5.29
+Cabo Verde,CPV,2014,5.327
+Cabo Verde,CPV,2015,4.819
+Cabo Verde,CPV,2016,4.843
+Cabo Verde,CPV,2017,5.165
+Costa Rica,CRI,2010,8.113
+Costa Rica,CRI,2011,8.218
+Costa Rica,CRI,2012,7.914
+Costa Rica,CRI,2013,7.868
+Costa Rica,CRI,2014,7.882
+Costa Rica,CRI,2015,7.823
+Costa Rica,CRI,2016,7.533
+Costa Rica,CRI,2017,7.329
+Cuba,CUB,2010,10.688
+Cuba,CUB,2011,11.313
+Cuba,CUB,2012,9.299
+Cuba,CUB,2013,10.431
+Cuba,CUB,2014,12.141
+Cuba,CUB,2015,12.814
+Cuba,CUB,2016,12.218
+Cuba,CUB,2017,11.711
+Cyprus,CYP,2010,6.279
+Cyprus,CYP,2011,6.591
+Cyprus,CYP,2012,6.689
+Cyprus,CYP,2013,6.901
+Cyprus,CYP,2014,6.78
+Cyprus,CYP,2015,6.809
+Cyprus,CYP,2016,6.789
+Cyprus,CYP,2017,6.685
+Czechia,CZE,2010,6.928
+Czechia,CZE,2011,6.977
+Czechia,CZE,2012,7.028
+Czechia,CZE,2013,7.807
+Czechia,CZE,2014,7.653
+Czechia,CZE,2015,7.243
+Czechia,CZE,2016,7.15
+Czechia,CZE,2017,7.231
+Germany,DEU,2010,11.005
+Germany,DEU,2011,10.721
+Germany,DEU,2012,10.777
+Germany,DEU,2013,10.932
+Germany,DEU,2014,10.96
+Germany,DEU,2015,11.088
+Germany,DEU,2016,11.131
+Germany,DEU,2017,11.247
+Djibouti,DJI,2010,4.297
+Djibouti,DJI,2011,4.738
+Djibouti,DJI,2012,4.632
+Djibouti,DJI,2013,4.099
+Djibouti,DJI,2014,4.138
+Djibouti,DJI,2015,4.389
+Djibouti,DJI,2016,3.749
+Djibouti,DJI,2017,3.317
+Dominica,DMA,2010,5.57
+Dominica,DMA,2011,5.335
+Dominica,DMA,2012,5.828
+Dominica,DMA,2013,5.295
+Dominica,DMA,2014,5.462
+Dominica,DMA,2015,5.412
+Dominica,DMA,2016,5.21
+Dominica,DMA,2017,5.877
+Denmark,DNK,2010,10.333
+Denmark,DNK,2011,10.153
+Denmark,DNK,2012,10.241
+Denmark,DNK,2013,10.17
+Denmark,DNK,2014,10.172
+Denmark,DNK,2015,10.227
+Denmark,DNK,2016,10.181
+Denmark,DNK,2017,10.108
+Dominican Republic,DOM,2010,5.579
+Dominican Republic,DOM,2011,5.665
+Dominican Republic,DOM,2012,5.885
+Dominican Republic,DOM,2013,5.764
+Dominican Republic,DOM,2014,5.847
+Dominican Republic,DOM,2015,5.982
+Dominican Republic,DOM,2016,6.097
+Dominican Republic,DOM,2017,6.136
+Algeria,DZA,2010,5.117
+Algeria,DZA,2011,5.267
+Algeria,DZA,2012,6.001
+Algeria,DZA,2013,6.036
+Algeria,DZA,2014,6.547
+Algeria,DZA,2015,6.978
+Algeria,DZA,2016,6.604
+Algeria,DZA,2017,6.374
+Ecuador,ECU,2010,7.122
+Ecuador,ECU,2011,7.865
+Ecuador,ECU,2012,8.48
+Ecuador,ECU,2013,8.56
+Ecuador,ECU,2014,8.621
+Ecuador,ECU,2015,8.588
+Ecuador,ECU,2016,8.296
+Ecuador,ECU,2017,8.257
+Egypt,EGY,2010,4.153
+Egypt,EGY,2011,4.357
+Egypt,EGY,2012,4.553
+Egypt,EGY,2013,4.654
+Egypt,EGY,2014,4.692
+Egypt,EGY,2015,5.337
+Egypt,EGY,2016,5.363
+Egypt,EGY,2017,5.288
+Eritrea,ERI,2010,3.456
+Eritrea,ERI,2011,4.149
+Eritrea,ERI,2012,2.939
+Eritrea,ERI,2013,2.835
+Eritrea,ERI,2014,2.819
+Eritrea,ERI,2015,2.864
+Eritrea,ERI,2016,2.908
+Eritrea,ERI,2017,2.87
+Spain,ESP,2010,9.011
+Spain,ESP,2011,9.078
+Spain,ESP,2012,9.072
+Spain,ESP,2013,9.02
+Spain,ESP,2014,9.024
+Spain,ESP,2015,9.109
+Spain,ESP,2016,8.971
+Spain,ESP,2017,8.873
+Estonia,EST,2010,6.334
+Estonia,EST,2011,5.823
+Estonia,EST,2012,5.828
+Estonia,EST,2013,6.01
+Estonia,EST,2014,6.117
+Estonia,EST,2015,6.386
+Estonia,EST,2016,6.503
+Estonia,EST,2017,6.429
+Ethiopia,ETH,2010,5.466
+Ethiopia,ETH,2011,4.469
+Ethiopia,ETH,2012,4.54
+Ethiopia,ETH,2013,4.075
+Ethiopia,ETH,2014,4.034
+Ethiopia,ETH,2015,3.945
+Ethiopia,ETH,2016,3.851
+Ethiopia,ETH,2017,3.503
+Finland,FIN,2010,8.877
+Finland,FIN,2011,8.958
+Finland,FIN,2012,9.302
+Finland,FIN,2013,8.673
+Finland,FIN,2014,9.493
+Finland,FIN,2015,9.704
+Finland,FIN,2016,9.428
+Finland,FIN,2017,9.207
+Fiji,FJI,2010,3.701
+Fiji,FJI,2011,3.405
+Fiji,FJI,2012,3.537
+Fiji,FJI,2013,3.467
+Fiji,FJI,2014,3.649
+Fiji,FJI,2015,3.569
+Fiji,FJI,2016,3.535
+Fiji,FJI,2017,3.501
+France,FRA,2010,11.239
+France,FRA,2011,11.203
+France,FRA,2012,11.315
+France,FRA,2013,11.436
+France,FRA,2014,11.571
+France,FRA,2015,11.459
+France,FRA,2016,11.479
+France,FRA,2017,11.313
+Micronesia (Federated States of),FSM,2010,13.106
+Micronesia (Federated States of),FSM,2011,13.095
+Micronesia (Federated States of),FSM,2012,12.315
+Micronesia (Federated States of),FSM,2013,12.176
+Micronesia (Federated States of),FSM,2014,11.804
+Micronesia (Federated States of),FSM,2015,12.532
+Micronesia (Federated States of),FSM,2016,12.591
+Micronesia (Federated States of),FSM,2017,12.352
+Gabon,GAB,2010,2.476
+Gabon,GAB,2011,2.558
+Gabon,GAB,2012,2.421
+Gabon,GAB,2013,2.841
+Gabon,GAB,2014,2.533
+Gabon,GAB,2015,2.657
+Gabon,GAB,2016,3.108
+Gabon,GAB,2017,2.781
+United Kingdom,GBR,2010,8.434
+United Kingdom,GBR,2011,8.376
+United Kingdom,GBR,2012,8.286
+United Kingdom,GBR,2013,9.766
+United Kingdom,GBR,2014,9.757
+United Kingdom,GBR,2015,9.687
+United Kingdom,GBR,2016,9.699
+United Kingdom,GBR,2017,9.632
+Georgia,GEO,2010,9.545
+Georgia,GEO,2011,8.388
+Georgia,GEO,2012,8.373
+Georgia,GEO,2013,8.396
+Georgia,GEO,2014,8.439
+Georgia,GEO,2015,7.932
+Georgia,GEO,2016,8.421
+Georgia,GEO,2017,7.602
+Ghana,GHA,2010,4.608
+Ghana,GHA,2011,4.674
+Ghana,GHA,2012,4.118
+Ghana,GHA,2013,4.623
+Ghana,GHA,2014,4.1
+Ghana,GHA,2015,4.622
+Ghana,GHA,2016,3.462
+Ghana,GHA,2017,3.262
+Guinea,GIN,2010,3.019
+Guinea,GIN,2011,3.79
+Guinea,GIN,2012,3.504
+Guinea,GIN,2013,3.461
+Guinea,GIN,2014,4.781
+Guinea,GIN,2015,5.809
+Guinea,GIN,2016,5.341
+Guinea,GIN,2017,4.123
+Gambia,GMB,2010,3.351
+Gambia,GMB,2011,4.014
+Gambia,GMB,2012,3.924
+Gambia,GMB,2013,4.065
+Gambia,GMB,2014,3.456
+Gambia,GMB,2015,3.1
+Gambia,GMB,2016,2.956
+Gambia,GMB,2017,3.282
+Guinea-Bissau,GNB,2010,6.645
+Guinea-Bissau,GNB,2011,6.028
+Guinea-Bissau,GNB,2012,5.69
+Guinea-Bissau,GNB,2013,6.889
+Guinea-Bissau,GNB,2014,9.489
+Guinea-Bissau,GNB,2015,8.591
+Guinea-Bissau,GNB,2016,8.042
+Guinea-Bissau,GNB,2017,7.236
+Equatorial Guinea,GNQ,2010,1.819
+Equatorial Guinea,GNQ,2011,1.554
+Equatorial Guinea,GNQ,2012,1.264
+Equatorial Guinea,GNQ,2013,1.876
+Equatorial Guinea,GNQ,2014,2.193
+Equatorial Guinea,GNQ,2015,2.915
+Equatorial Guinea,GNQ,2016,3.157
+Equatorial Guinea,GNQ,2017,3.107
+Greece,GRC,2010,9.56
+Greece,GRC,2011,9.098
+Greece,GRC,2012,8.883
+Greece,GRC,2013,8.415
+Greece,GRC,2014,7.95
+Greece,GRC,2015,8.09
+Greece,GRC,2016,8.282
+Greece,GRC,2017,8.041
+Grenada,GRD,2010,6.193
+Grenada,GRD,2011,6.209
+Grenada,GRD,2012,5.936
+Grenada,GRD,2013,5.679
+Grenada,GRD,2014,4.724
+Grenada,GRD,2015,4.717
+Grenada,GRD,2016,4.688
+Grenada,GRD,2017,4.757
+Guatemala,GTM,2010,6.149
+Guatemala,GTM,2011,5.936
+Guatemala,GTM,2012,6.015
+Guatemala,GTM,2013,6.17
+Guatemala,GTM,2014,5.942
+Guatemala,GTM,2015,5.96
+Guatemala,GTM,2016,6.009
+Guatemala,GTM,2017,5.814
+Guyana,GUY,2010,5.463
+Guyana,GUY,2011,5.167
+Guyana,GUY,2012,4.894
+Guyana,GUY,2013,5.05
+Guyana,GUY,2014,5.144
+Guyana,GUY,2015,4.518
+Guyana,GUY,2016,5.141
+Guyana,GUY,2017,4.946
+Honduras,HND,2010,8.721
+Honduras,HND,2011,8.793
+Honduras,HND,2012,8.646
+Honduras,HND,2013,8.475
+Honduras,HND,2014,8.17
+Honduras,HND,2015,7.714
+Honduras,HND,2016,8.167
+Honduras,HND,2017,7.858
+Croatia,HRV,2010,8.096
+Croatia,HRV,2011,7.786
+Croatia,HRV,2012,7.788
+Croatia,HRV,2013,6.522
+Croatia,HRV,2014,6.695
+Croatia,HRV,2015,6.788
+Croatia,HRV,2016,6.826
+Croatia,HRV,2017,6.789
+Haiti,HTI,2010,8.146
+Haiti,HTI,2011,10.231
+Haiti,HTI,2012,9.668
+Haiti,HTI,2013,7.238
+Haiti,HTI,2014,7.798
+Haiti,HTI,2015,8.629
+Haiti,HTI,2016,8.437
+Haiti,HTI,2017,8.036
+Hungary,HUN,2010,7.52
+Hungary,HUN,2011,7.543
+Hungary,HUN,2012,7.466
+Hungary,HUN,2013,7.259
+Hungary,HUN,2014,7.095
+Hungary,HUN,2015,6.971
+Hungary,HUN,2016,7.135
+Hungary,HUN,2017,6.88
+Indonesia,IDN,2010,2.961
+Indonesia,IDN,2011,2.955
+Indonesia,IDN,2012,2.903
+Indonesia,IDN,2013,2.961
+Indonesia,IDN,2014,3.117
+Indonesia,IDN,2015,3.012
+Indonesia,IDN,2016,3.119
+Indonesia,IDN,2017,2.989
+India,IND,2010,3.272
+India,IND,2011,3.246
+India,IND,2012,3.329
+India,IND,2013,3.749
+India,IND,2014,3.62
+India,IND,2015,3.596
+India,IND,2016,3.511
+India,IND,2017,3.535
+Ireland,IRL,2010,10.503
+Ireland,IRL,2011,10.689
+Ireland,IRL,2012,10.681
+Ireland,IRL,2013,10.286
+Ireland,IRL,2014,9.652
+Ireland,IRL,2015,7.336
+Ireland,IRL,2016,7.383
+Ireland,IRL,2017,7.184
+Iran (Islamic Republic of),IRN,2010,6.755
+Iran (Islamic Republic of),IRN,2011,6.607
+Iran (Islamic Republic of),IRN,2012,6.636
+Iran (Islamic Republic of),IRN,2013,5.994
+Iran (Islamic Republic of),IRN,2014,6.914
+Iran (Islamic Republic of),IRN,2015,7.761
+Iran (Islamic Republic of),IRN,2016,8.86
+Iran (Islamic Republic of),IRN,2017,8.66
+Iraq,IRQ,2010,3.231
+Iraq,IRQ,2011,2.791
+Iraq,IRQ,2012,2.69
+Iraq,IRQ,2013,2.819
+Iraq,IRQ,2014,2.797
+Iraq,IRQ,2015,3.143
+Iraq,IRQ,2016,3.267
+Iraq,IRQ,2017,4.167
+Iceland,ISL,2010,8.532
+Iceland,ISL,2011,8.251
+Iceland,ISL,2012,8.195
+Iceland,ISL,2013,8.221
+Iceland,ISL,2014,8.279
+Iceland,ISL,2015,8.152
+Iceland,ISL,2016,8.127
+Iceland,ISL,2017,8.326
+Israel,ISR,2010,7.025
+Israel,ISR,2011,6.972
+Israel,ISR,2012,7.108
+Israel,ISR,2013,7.073
+Israel,ISR,2014,7.143
+Israel,ISR,2015,7.087
+Israel,ISR,2016,7.326
+Israel,ISR,2017,7.407
+Italy,ITA,2010,8.954
+Italy,ITA,2011,8.835
+Italy,ITA,2012,8.956
+Italy,ITA,2013,8.952
+Italy,ITA,2014,9.011
+Italy,ITA,2015,8.988
+Italy,ITA,2016,8.881
+Italy,ITA,2017,8.84
+Jamaica,JAM,2010,5.006
+Jamaica,JAM,2011,4.932
+Jamaica,JAM,2012,4.995
+Jamaica,JAM,2013,5.239
+Jamaica,JAM,2014,5.233
+Jamaica,JAM,2015,5.655
+Jamaica,JAM,2016,5.735
+Jamaica,JAM,2017,5.988
+Jordan,JOR,2010,8.389
+Jordan,JOR,2011,8.299
+Jordan,JOR,2012,7.883
+Jordan,JOR,2013,7.248
+Jordan,JOR,2014,7.311
+Jordan,JOR,2015,7.593
+Jordan,JOR,2016,7.167
+Jordan,JOR,2017,8.119
+Japan,JPN,2010,9.157
+Japan,JPN,2011,10.617
+Japan,JPN,2012,10.791
+Japan,JPN,2013,10.792
+Japan,JPN,2014,10.832
+Japan,JPN,2015,10.886
+Japan,JPN,2016,10.826
+Japan,JPN,2017,10.936
+Kazakhstan,KAZ,2010,2.741
+Kazakhstan,KAZ,2011,2.687
+Kazakhstan,KAZ,2012,3.06
+Kazakhstan,KAZ,2013,2.865
+Kazakhstan,KAZ,2014,2.709
+Kazakhstan,KAZ,2015,3.046
+Kazakhstan,KAZ,2016,3.435
+Kazakhstan,KAZ,2017,3.125
+Kenya,KEN,2010,6.117
+Kenya,KEN,2011,5.812
+Kenya,KEN,2012,5.614
+Kenya,KEN,2013,5.519
+Kenya,KEN,2014,5.459
+Kenya,KEN,2015,5.219
+Kenya,KEN,2016,5.019
+Kenya,KEN,2017,4.803
+Kyrgyzstan,KGZ,2010,6.95
+Kyrgyzstan,KGZ,2011,7.107
+Kyrgyzstan,KGZ,2012,8.51
+Kyrgyzstan,KGZ,2013,8.187
+Kyrgyzstan,KGZ,2014,7.358
+Kyrgyzstan,KGZ,2015,7.149
+Kyrgyzstan,KGZ,2016,6.412
+Kyrgyzstan,KGZ,2017,6.186
+Cambodia,KHM,2010,6.912
+Cambodia,KHM,2011,7.504
+Cambodia,KHM,2012,7.261
+Cambodia,KHM,2013,7.104
+Cambodia,KHM,2014,6.702
+Cambodia,KHM,2015,6.194
+Cambodia,KHM,2016,6.116
+Cambodia,KHM,2017,5.919
+Kiribati,KIR,2010,9.207
+Kiribati,KIR,2011,8.584
+Kiribati,KIR,2012,8.598
+Kiribati,KIR,2013,9.46
+Kiribati,KIR,2014,9.938
+Kiribati,KIR,2015,7.988
+Kiribati,KIR,2016,9.32
+Kiribati,KIR,2017,10.758
+Saint Kitts and Nevis,KNA,2010,5.297
+Saint Kitts and Nevis,KNA,2011,5.27
+Saint Kitts and Nevis,KNA,2012,5.172
+Saint Kitts and Nevis,KNA,2013,5.198
+Saint Kitts and Nevis,KNA,2014,4.848
+Saint Kitts and Nevis,KNA,2015,4.922
+Saint Kitts and Nevis,KNA,2016,4.984
+Saint Kitts and Nevis,KNA,2017,5.037
+Korea (Republic of),KOR,2010,6.222
+Korea (Republic of),KOR,2011,6.294
+Korea (Republic of),KOR,2012,6.437
+Korea (Republic of),KOR,2013,6.579
+Korea (Republic of),KOR,2014,6.821
+Korea (Republic of),KOR,2015,7.045
+Korea (Republic of),KOR,2016,7.325
+Korea (Republic of),KOR,2017,7.604
+Kuwait,KWT,2010,2.757
+Kuwait,KWT,2011,2.618
+Kuwait,KWT,2012,2.574
+Kuwait,KWT,2013,2.585
+Kuwait,KWT,2014,3.198
+Kuwait,KWT,2015,4.015
+Kuwait,KWT,2016,3.974
+Kuwait,KWT,2017,5.291
+Lao People's Democratic Republic,LAO,2010,2.912
+Lao People's Democratic Republic,LAO,2011,1.945
+Lao People's Democratic Republic,LAO,2012,2.076
+Lao People's Democratic Republic,LAO,2013,2.4
+Lao People's Democratic Republic,LAO,2014,2.298
+Lao People's Democratic Republic,LAO,2015,2.454
+Lao People's Democratic Republic,LAO,2016,2.361
+Lao People's Democratic Republic,LAO,2017,2.528
+Lebanon,LBN,2010,7.443
+Lebanon,LBN,2011,8.147
+Lebanon,LBN,2012,7.931
+Lebanon,LBN,2013,7.58
+Lebanon,LBN,2014,7.846
+Lebanon,LBN,2015,7.679
+Lebanon,LBN,2016,7.823
+Lebanon,LBN,2017,8.196
+Liberia,LBR,2010,8.794
+Liberia,LBR,2011,9.228
+Liberia,LBR,2012,8.592
+Liberia,LBR,2013,8.188
+Liberia,LBR,2014,9.063
+Liberia,LBR,2015,10.29
+Liberia,LBR,2016,9.796
+Liberia,LBR,2017,8.155
+Libya,LBY,2010,3.585
+Libya,LBY,2011,6.05
+Saint Lucia,LCA,2010,5.353
+Saint Lucia,LCA,2011,5.612
+Saint Lucia,LCA,2012,5.585
+Saint Lucia,LCA,2013,5.782
+Saint Lucia,LCA,2014,4.956
+Saint Lucia,LCA,2015,4.805
+Saint Lucia,LCA,2016,5.198
+Saint Lucia,LCA,2017,4.546
+Sri Lanka,LKA,2010,3.867
+Sri Lanka,LKA,2011,3.717
+Sri Lanka,LKA,2012,3.404
+Sri Lanka,LKA,2013,3.827
+Sri Lanka,LKA,2014,3.606
+Sri Lanka,LKA,2015,3.89
+Sri Lanka,LKA,2016,3.893
+Sri Lanka,LKA,2017,3.811
+Lesotho,LSO,2010,7.618
+Lesotho,LSO,2011,8.797
+Lesotho,LSO,2012,8.578
+Lesotho,LSO,2013,9.012
+Lesotho,LSO,2014,8.615
+Lesotho,LSO,2015,8.402
+Lesotho,LSO,2016,7.949
+Lesotho,LSO,2017,8.763
+Lithuania,LTU,2010,6.816
+Lithuania,LTU,2011,6.496
+Lithuania,LTU,2012,6.288
+Lithuania,LTU,2013,6.14
+Lithuania,LTU,2014,6.196
+Lithuania,LTU,2015,6.475
+Lithuania,LTU,2016,6.644
+Lithuania,LTU,2017,6.458
+Luxembourg,LUX,2010,7.031
+Luxembourg,LUX,2011,6.111
+Luxembourg,LUX,2012,6.572
+Luxembourg,LUX,2013,5.673
+Luxembourg,LUX,2014,5.555
+Luxembourg,LUX,2015,5.479
+Luxembourg,LUX,2016,5.469
+Luxembourg,LUX,2017,5.481
+Latvia,LVA,2010,6.148
+Latvia,LVA,2011,5.572
+Latvia,LVA,2012,5.42
+Latvia,LVA,2013,5.4
+Latvia,LVA,2014,5.465
+Latvia,LVA,2015,5.711
+Latvia,LVA,2016,6.215
+Latvia,LVA,2017,5.956
+Morocco,MAR,2010,5.864
+Morocco,MAR,2011,5.733
+Morocco,MAR,2012,5.749
+Morocco,MAR,2013,5.687
+Morocco,MAR,2014,5.303
+Morocco,MAR,2015,5.072
+Morocco,MAR,2016,5.238
+Morocco,MAR,2017,5.245
+Monaco,MCO,2010,2.331
+Monaco,MCO,2011,2.179
+Monaco,MCO,2012,2.235
+Monaco,MCO,2013,2.15
+Monaco,MCO,2014,2.087
+Monaco,MCO,2015,2.028
+Monaco,MCO,2016,1.749
+Monaco,MCO,2017,1.773
+Moldova (Republic of),MDA,2010,10.131
+Moldova (Republic of),MDA,2011,9.097
+Moldova (Republic of),MDA,2012,9.14
+Moldova (Republic of),MDA,2013,8.683
+Moldova (Republic of),MDA,2014,8.633
+Moldova (Republic of),MDA,2015,8.558
+Moldova (Republic of),MDA,2016,7.536
+Moldova (Republic of),MDA,2017,7.013
+Madagascar,MDG,2010,5.32
+Madagascar,MDG,2011,5.186
+Madagascar,MDG,2012,4.41
+Madagascar,MDG,2013,4.23
+Madagascar,MDG,2014,5.083
+Madagascar,MDG,2015,5.721
+Madagascar,MDG,2016,6.117
+Madagascar,MDG,2017,5.502
+Maldives,MDV,2010,8.488
+Maldives,MDV,2011,7.923
+Maldives,MDV,2012,8.673
+Maldives,MDV,2013,8.136
+Maldives,MDV,2014,7.908
+Maldives,MDV,2015,8.69
+Maldives,MDV,2016,10.2
+Maldives,MDV,2017,9.03
+Mexico,MEX,2010,5.975
+Mexico,MEX,2011,5.701
+Mexico,MEX,2012,5.842
+Mexico,MEX,2013,5.941
+Mexico,MEX,2014,5.63
+Mexico,MEX,2015,5.797
+Mexico,MEX,2016,5.616
+Mexico,MEX,2017,5.517
+Marshall Islands,MHL,2010,15.246
+Marshall Islands,MHL,2011,14.766
+Marshall Islands,MHL,2012,14.494
+Marshall Islands,MHL,2013,14.809
+Marshall Islands,MHL,2014,14.922
+Marshall Islands,MHL,2015,17.591
+Marshall Islands,MHL,2016,17.862
+Marshall Islands,MHL,2017,16.403
+North Macedonia,MKD,2010,6.714
+North Macedonia,MKD,2011,6.519
+North Macedonia,MKD,2012,6.615
+North Macedonia,MKD,2013,6.719
+North Macedonia,MKD,2014,6.29
+North Macedonia,MKD,2015,6.342
+North Macedonia,MKD,2016,6.379
+North Macedonia,MKD,2017,6.062
+Mali,MLI,2010,4.609
+Mali,MLI,2011,3.945
+Mali,MLI,2012,3.682
+Mali,MLI,2013,3.969
+Mali,MLI,2014,4.482
+Mali,MLI,2015,4.111
+Mali,MLI,2016,3.775
+Mali,MLI,2017,3.794
+Malta,MLT,2010,8.213
+Malta,MLT,2011,8.563
+Malta,MLT,2012,8.608
+Malta,MLT,2013,8.83
+Malta,MLT,2014,9.369
+Malta,MLT,2015,9.237
+Malta,MLT,2016,9.166
+Malta,MLT,2017,9.341
+Myanmar,MMR,2010,1.825
+Myanmar,MMR,2011,1.784
+Myanmar,MMR,2012,2.321
+Myanmar,MMR,2013,3.048
+Myanmar,MMR,2014,4.149
+Myanmar,MMR,2015,5.197
+Myanmar,MMR,2016,4.767
+Myanmar,MMR,2017,4.659
+Mongolia,MNG,2010,3.739
+Mongolia,MNG,2011,3.586
+Mongolia,MNG,2012,3.855
+Mongolia,MNG,2013,4.067
+Mongolia,MNG,2014,4.19
+Mongolia,MNG,2015,4.238
+Mongolia,MNG,2016,4.424
+Mongolia,MNG,2017,4.002
+Mozambique,MOZ,2010,5.122
+Mozambique,MOZ,2011,4.484
+Mozambique,MOZ,2012,5.224
+Mozambique,MOZ,2013,5.424
+Mozambique,MOZ,2014,5.968
+Mozambique,MOZ,2015,5.269
+Mozambique,MOZ,2016,5.147
+Mozambique,MOZ,2017,4.941
+Mauritania,MRT,2010,3.422
+Mauritania,MRT,2011,3.239
+Mauritania,MRT,2012,3.418
+Mauritania,MRT,2013,3.693
+Mauritania,MRT,2014,4.285
+Mauritania,MRT,2015,4.743
+Mauritania,MRT,2016,4.131
+Mauritania,MRT,2017,4.403
+Mauritius,MUS,2010,4.58
+Mauritius,MUS,2011,4.308
+Mauritius,MUS,2012,4.277
+Mauritius,MUS,2013,4.683
+Mauritius,MUS,2014,5.494
+Mauritius,MUS,2015,5.7
+Mauritius,MUS,2016,5.707
+Mauritius,MUS,2017,5.719
+Malawi,MWI,2010,7.241
+Malawi,MWI,2011,7.494
+Malawi,MWI,2012,8.479
+Malawi,MWI,2013,11.579
+Malawi,MWI,2014,9.712
+Malawi,MWI,2015,9.333
+Malawi,MWI,2016,9.694
+Malawi,MWI,2017,9.648
+Malaysia,MYS,2010,3.229
+Malaysia,MYS,2011,3.389
+Malaysia,MYS,2012,3.546
+Malaysia,MYS,2013,3.572
+Malaysia,MYS,2014,3.773
+Malaysia,MYS,2015,3.895
+Malaysia,MYS,2016,3.799
+Malaysia,MYS,2017,3.859
+Namibia,NAM,2010,9.719
+Namibia,NAM,2011,9.822
+Namibia,NAM,2012,9.507
+Namibia,NAM,2013,8.926
+Namibia,NAM,2014,8.39
+Namibia,NAM,2015,9.936
+Namibia,NAM,2016,9.11
+Namibia,NAM,2017,8.551
+Niger,NER,2010,6.869
+Niger,NER,2011,6.649
+Niger,NER,2012,5.837
+Niger,NER,2013,5.943
+Niger,NER,2014,5.851
+Niger,NER,2015,7.138
+Niger,NER,2016,6.165
+Niger,NER,2017,7.74
+Nigeria,NGA,2010,3.297
+Nigeria,NGA,2011,3.321
+Nigeria,NGA,2012,3.36
+Nigeria,NGA,2013,3.421
+Nigeria,NGA,2014,3.348
+Nigeria,NGA,2015,3.582
+Nigeria,NGA,2016,3.648
+Nigeria,NGA,2017,3.756
+Nicaragua,NIC,2010,7.049
+Nicaragua,NIC,2011,7.424
+Nicaragua,NIC,2012,7.648
+Nicaragua,NIC,2013,7.524
+Nicaragua,NIC,2014,8.01
+Nicaragua,NIC,2015,8.001
+Nicaragua,NIC,2016,8.791
+Nicaragua,NIC,2017,8.645
+Netherlands,NLD,2010,10.155
+Netherlands,NLD,2011,10.234
+Netherlands,NLD,2012,10.539
+Netherlands,NLD,2013,10.584
+Netherlands,NLD,2014,10.567
+Netherlands,NLD,2015,10.324
+Netherlands,NLD,2016,10.301
+Netherlands,NLD,2017,10.101
+Norway,NOR,2010,8.898
+Norway,NOR,2011,8.779
+Norway,NOR,2012,8.765
+Norway,NOR,2013,8.917
+Norway,NOR,2014,9.328
+Norway,NOR,2015,10.109
+Norway,NOR,2016,10.519
+Norway,NOR,2017,10.446
+Nepal,NPL,2010,4.975
+Nepal,NPL,2011,5.078
+Nepal,NPL,2012,5.17
+Nepal,NPL,2013,5.325
+Nepal,NPL,2014,5.768
+Nepal,NPL,2015,6.219
+Nepal,NPL,2016,6.278
+Nepal,NPL,2017,5.553
+Nauru,NRU,2010,10.431
+Nauru,NRU,2011,8.183
+Nauru,NRU,2012,7.45
+Nauru,NRU,2013,8.433
+Nauru,NRU,2014,9.089
+Nauru,NRU,2015,13.252
+Nauru,NRU,2016,13.865
+Nauru,NRU,2017,11.018
+New Zealand,NZL,2010,9.588
+New Zealand,NZL,2011,9.51
+New Zealand,NZL,2012,9.652
+New Zealand,NZL,2013,9.366
+New Zealand,NZL,2014,9.424
+New Zealand,NZL,2015,9.328
+New Zealand,NZL,2016,9.292
+New Zealand,NZL,2017,9.17
+Oman,OMN,2010,2.821
+Oman,OMN,2011,2.548
+Oman,OMN,2012,2.552
+Oman,OMN,2013,2.791
+Oman,OMN,2014,3.527
+Oman,OMN,2015,4.304
+Oman,OMN,2016,4.329
+Oman,OMN,2017,3.849
+Pakistan,PAK,2010,2.597
+Pakistan,PAK,2011,2.344
+Pakistan,PAK,2012,2.359
+Pakistan,PAK,2013,2.603
+Pakistan,PAK,2014,2.722
+Pakistan,PAK,2015,2.687
+Pakistan,PAK,2016,2.855
+Pakistan,PAK,2017,2.899
+Panama,PAN,2010,7.172
+Panama,PAN,2011,6.618
+Panama,PAN,2012,6.581
+Panama,PAN,2013,6.651
+Panama,PAN,2014,6.911
+Panama,PAN,2015,6.808
+Panama,PAN,2016,7.242
+Panama,PAN,2017,7.319
+Peru,PER,2010,4.724
+Peru,PER,2011,4.625
+Peru,PER,2012,4.755
+Peru,PER,2013,4.701
+Peru,PER,2014,4.997
+Peru,PER,2015,5.026
+Peru,PER,2016,5.064
+Peru,PER,2017,4.995
+Philippines,PHL,2010,4.313
+Philippines,PHL,2011,4.206
+Philippines,PHL,2012,4.375
+Philippines,PHL,2013,4.464
+Philippines,PHL,2014,4.127
+Philippines,PHL,2015,4.321
+Philippines,PHL,2016,4.407
+Philippines,PHL,2017,4.446
+Palau,PLW,2010,11.609
+Palau,PLW,2011,10.818
+Palau,PLW,2012,11.421
+Palau,PLW,2013,12.015
+Palau,PLW,2014,12.023
+Palau,PLW,2015,10.888
+Palau,PLW,2016,11.845
+Palau,PLW,2017,11.961
+Papua New Guinea,PNG,2010,2.108
+Papua New Guinea,PNG,2011,2.294
+Papua New Guinea,PNG,2012,2.667
+Papua New Guinea,PNG,2013,2.997
+Papua New Guinea,PNG,2014,3.293
+Papua New Guinea,PNG,2015,1.914
+Papua New Guinea,PNG,2016,2.543
+Papua New Guinea,PNG,2017,2.469
+Poland,POL,2010,6.419
+Poland,POL,2011,6.234
+Poland,POL,2012,6.201
+Poland,POL,2013,6.375
+Poland,POL,2014,6.353
+Poland,POL,2015,6.398
+Poland,POL,2016,6.543
+Poland,POL,2017,6.542
+Portugal,PRT,2010,9.819
+Portugal,PRT,2011,9.531
+Portugal,PRT,2012,9.348
+Portugal,PRT,2013,9.09
+Portugal,PRT,2014,9.022
+Portugal,PRT,2015,8.972
+Portugal,PRT,2016,9.038
+Portugal,PRT,2017,8.97
+Paraguay,PRY,2010,4.625
+Paraguay,PRY,2011,5.054
+Paraguay,PRY,2012,6.543
+Paraguay,PRY,2013,6.072
+Paraguay,PRY,2014,6.646
+Paraguay,PRY,2015,6.747
+Paraguay,PRY,2016,6.725
+Paraguay,PRY,2017,6.655
+Qatar,QAT,2010,1.789
+Qatar,QAT,2011,1.6
+Qatar,QAT,2012,1.748
+Qatar,QAT,2013,2.076
+Qatar,QAT,2014,2.423
+Qatar,QAT,2015,3.117
+Qatar,QAT,2016,3.049
+Qatar,QAT,2017,2.607
+Romania,ROU,2010,5.769
+Romania,ROU,2011,4.699
+Romania,ROU,2012,4.718
+Romania,ROU,2013,5.193
+Romania,ROU,2014,5.03
+Romania,ROU,2015,4.943
+Romania,ROU,2016,4.994
+Romania,ROU,2017,5.158
+Russian Federation,RUS,2010,4.974
+Russian Federation,RUS,2011,4.798
+Russian Federation,RUS,2012,4.949
+Russian Federation,RUS,2013,5.088
+Russian Federation,RUS,2014,5.189
+Russian Federation,RUS,2015,5.295
+Russian Federation,RUS,2016,5.265
+Russian Federation,RUS,2017,5.345
+Rwanda,RWA,2010,8.644
+Rwanda,RWA,2011,8.365
+Rwanda,RWA,2012,8.348
+Rwanda,RWA,2013,6.756
+Rwanda,RWA,2014,6.897
+Rwanda,RWA,2015,6.524
+Rwanda,RWA,2016,6.763
+Rwanda,RWA,2017,6.572
+Saudi Arabia,SAU,2010,3.648
+Saudi Arabia,SAU,2011,3.712
+Saudi Arabia,SAU,2012,4.02
+Saudi Arabia,SAU,2013,4.466
+Saudi Arabia,SAU,2014,5.228
+Saudi Arabia,SAU,2015,5.998
+Saudi Arabia,SAU,2016,5.836
+Saudi Arabia,SAU,2017,5.23
+Sudan,SDN,2010,5.058
+Sudan,SDN,2011,5.616
+Sudan,SDN,2012,5.688
+Sudan,SDN,2013,6.965
+Sudan,SDN,2014,5.676
+Sudan,SDN,2015,7.183
+Sudan,SDN,2016,6.404
+Sudan,SDN,2017,6.342
+Senegal,SEN,2010,4.0
+Senegal,SEN,2011,4.193
+Senegal,SEN,2012,4.228
+Senegal,SEN,2013,4.375
+Senegal,SEN,2014,4.396
+Senegal,SEN,2015,4.383
+Senegal,SEN,2016,4.273
+Senegal,SEN,2017,4.134
+Singapore,SGP,2010,3.249
+Singapore,SGP,2011,3.189
+Singapore,SGP,2012,3.368
+Singapore,SGP,2013,3.715
+Singapore,SGP,2014,3.891
+Singapore,SGP,2015,4.205
+Singapore,SGP,2016,4.422
+Singapore,SGP,2017,4.44
+Solomon Islands,SLB,2010,7.258
+Solomon Islands,SLB,2011,7.102
+Solomon Islands,SLB,2012,5.593
+Solomon Islands,SLB,2013,5.495
+Solomon Islands,SLB,2014,5.883
+Solomon Islands,SLB,2015,5.249
+Solomon Islands,SLB,2016,5.171
+Solomon Islands,SLB,2017,4.685
+Sierra Leone,SLE,2010,10.943
+Sierra Leone,SLE,2011,13.281
+Sierra Leone,SLE,2012,10.59
+Sierra Leone,SLE,2013,11.568
+Sierra Leone,SLE,2014,19.727
+Sierra Leone,SLE,2015,20.413
+Sierra Leone,SLE,2016,16.526
+Sierra Leone,SLE,2017,13.421
+El Salvador,SLV,2010,8.236
+El Salvador,SLV,2011,8.144
+El Salvador,SLV,2012,7.539
+El Salvador,SLV,2013,7.718
+El Salvador,SLV,2014,7.682
+El Salvador,SLV,2015,7.63
+El Salvador,SLV,2016,7.717
+El Salvador,SLV,2017,7.228
+San Marino,SMR,2010,6.624
+San Marino,SMR,2011,7.444
+San Marino,SMR,2012,8.006
+San Marino,SMR,2013,7.727
+San Marino,SMR,2014,7.567
+San Marino,SMR,2015,7.351
+San Marino,SMR,2016,6.835
+San Marino,SMR,2017,7.364
+Serbia,SRB,2010,9.527
+Serbia,SRB,2011,9.114
+Serbia,SRB,2012,9.328
+Serbia,SRB,2013,9.312
+Serbia,SRB,2014,9.246
+Serbia,SRB,2015,8.819
+Serbia,SRB,2016,8.646
+Serbia,SRB,2017,8.434
+Sao Tome and Principe,STP,2010,6.845
+Sao Tome and Principe,STP,2011,6.756
+Sao Tome and Principe,STP,2012,6.476
+Sao Tome and Principe,STP,2013,7.937
+Sao Tome and Principe,STP,2014,6.731
+Sao Tome and Principe,STP,2015,5.387
+Sao Tome and Principe,STP,2016,6.222
+Sao Tome and Principe,STP,2017,6.23
+Suriname,SUR,2010,5.03
+Suriname,SUR,2011,4.721
+Suriname,SUR,2012,4.588
+Suriname,SUR,2013,4.805
+Suriname,SUR,2014,4.841
+Suriname,SUR,2015,6.219
+Suriname,SUR,2016,6.279
+Suriname,SUR,2017,6.23
+Slovakia,SVK,2010,7.801
+Slovakia,SVK,2011,7.418
+Slovakia,SVK,2012,7.634
+Slovakia,SVK,2013,7.528
+Slovakia,SVK,2014,6.908
+Slovakia,SVK,2015,6.847
+Slovakia,SVK,2016,7.095
+Slovakia,SVK,2017,6.743
+Slovenia,SVN,2010,8.591
+Slovenia,SVN,2011,8.574
+Slovenia,SVN,2012,8.758
+Slovenia,SVN,2013,8.792
+Slovenia,SVN,2014,8.509
+Slovenia,SVN,2015,8.496
+Slovenia,SVN,2016,8.481
+Slovenia,SVN,2017,8.187
+Sweden,SWE,2010,8.477
+Sweden,SWE,2011,10.666
+Sweden,SWE,2012,10.926
+Sweden,SWE,2013,11.089
+Sweden,SWE,2014,11.13
+Sweden,SWE,2015,11.004
+Sweden,SWE,2016,10.976
+Sweden,SWE,2017,11.019
+Eswatini (Kingdom of),SWZ,2010,8.591
+Eswatini (Kingdom of),SWZ,2011,8.47
+Eswatini (Kingdom of),SWZ,2012,7.922
+Eswatini (Kingdom of),SWZ,2013,7.517
+Eswatini (Kingdom of),SWZ,2014,7.332
+Eswatini (Kingdom of),SWZ,2015,7.127
+Eswatini (Kingdom of),SWZ,2016,6.818
+Eswatini (Kingdom of),SWZ,2017,6.93
+Seychelles,SYC,2010,4.828
+Seychelles,SYC,2011,4.799
+Seychelles,SYC,2012,5.731
+Seychelles,SYC,2013,4.508
+Seychelles,SYC,2014,4.738
+Seychelles,SYC,2015,4.588
+Seychelles,SYC,2016,5.179
+Seychelles,SYC,2017,5.007
+Syrian Arab Republic,SYR,2010,3.276
+Syrian Arab Republic,SYR,2011,3.329
+Syrian Arab Republic,SYR,2012,3.566
+Chad,TCD,2010,4.06
+Chad,TCD,2011,3.91
+Chad,TCD,2012,3.856
+Chad,TCD,2013,4.066
+Chad,TCD,2014,4.273
+Chad,TCD,2015,4.524
+Chad,TCD,2016,4.957
+Chad,TCD,2017,4.487
+Togo,TGO,2010,5.9
+Togo,TGO,2011,5.996
+Togo,TGO,2012,6.141
+Togo,TGO,2013,6.296
+Togo,TGO,2014,6.359
+Togo,TGO,2015,6.249
+Togo,TGO,2016,6.577
+Togo,TGO,2017,6.2
+Thailand,THA,2010,3.39
+Thailand,THA,2011,3.568
+Thailand,THA,2012,3.523
+Thailand,THA,2013,3.453
+Thailand,THA,2014,3.684
+Thailand,THA,2015,3.668
+Thailand,THA,2016,3.763
+Thailand,THA,2017,3.746
+Tajikistan,TJK,2010,5.735
+Tajikistan,TJK,2011,5.86
+Tajikistan,TJK,2012,5.982
+Tajikistan,TJK,2013,6.532
+Tajikistan,TJK,2014,6.665
+Tajikistan,TJK,2015,6.907
+Tajikistan,TJK,2016,7.004
+Tajikistan,TJK,2017,7.229
+Turkmenistan,TKM,2010,4.996
+Turkmenistan,TKM,2011,4.897
+Turkmenistan,TKM,2012,4.776
+Turkmenistan,TKM,2013,5.151
+Turkmenistan,TKM,2014,5.498
+Turkmenistan,TKM,2015,6.298
+Turkmenistan,TKM,2016,6.621
+Turkmenistan,TKM,2017,6.93
+Timor-Leste,TLS,2010,1.427
+Timor-Leste,TLS,2011,1.259
+Timor-Leste,TLS,2012,1.216
+Timor-Leste,TLS,2013,1.712
+Timor-Leste,TLS,2014,2.364
+Timor-Leste,TLS,2015,3.494
+Timor-Leste,TLS,2016,4.021
+Timor-Leste,TLS,2017,3.882
+Tonga,TON,2010,4.741
+Tonga,TON,2011,3.857
+Tonga,TON,2012,5.065
+Tonga,TON,2013,4.176
+Tonga,TON,2014,5.114
+Tonga,TON,2015,4.652
+Tonga,TON,2016,5.178
+Tonga,TON,2017,5.269
+Trinidad and Tobago,TTO,2010,5.08
+Trinidad and Tobago,TTO,2011,4.722
+Trinidad and Tobago,TTO,2012,4.876
+Trinidad and Tobago,TTO,2013,5.043
+Trinidad and Tobago,TTO,2014,5.228
+Trinidad and Tobago,TTO,2015,6.04
+Trinidad and Tobago,TTO,2016,6.87
+Trinidad and Tobago,TTO,2017,6.979
+Tunisia,TUN,2010,5.884
+Tunisia,TUN,2011,6.432
+Tunisia,TUN,2012,6.606
+Tunisia,TUN,2013,6.857
+Tunisia,TUN,2014,6.807
+Tunisia,TUN,2015,7.007
+Tunisia,TUN,2016,6.996
+Tunisia,TUN,2017,7.232
+Turkey,TUR,2010,5.054
+Turkey,TUR,2011,4.688
+Turkey,TUR,2012,4.478
+Turkey,TUR,2013,4.404
+Turkey,TUR,2014,4.347
+Turkey,TUR,2015,4.139
+Turkey,TUR,2016,4.314
+Turkey,TUR,2017,4.216
+Tuvalu,TUV,2010,16.401
+Tuvalu,TUV,2011,15.394
+Tuvalu,TUV,2012,15.328
+Tuvalu,TUV,2013,18.128
+Tuvalu,TUV,2014,16.862
+Tuvalu,TUV,2015,16.7
+Tuvalu,TUV,2016,16.884
+Tuvalu,TUV,2017,17.143
+Tanzania (United Republic of),TZA,2010,5.299
+Tanzania (United Republic of),TZA,2011,5.129
+Tanzania (United Republic of),TZA,2012,5.018
+Tanzania (United Republic of),TZA,2013,4.647
+Tanzania (United Republic of),TZA,2014,4.015
+Tanzania (United Republic of),TZA,2015,3.65
+Tanzania (United Republic of),TZA,2016,3.963
+Tanzania (United Republic of),TZA,2017,3.645
+Uganda,UGA,2010,10.516
+Uganda,UGA,2011,8.925
+Uganda,UGA,2012,7.867
+Uganda,UGA,2013,7.25
+Uganda,UGA,2014,6.965
+Uganda,UGA,2015,6.483
+Uganda,UGA,2016,6.326
+Uganda,UGA,2017,6.188
+Ukraine,UKR,2010,6.812
+Ukraine,UKR,2011,6.816
+Ukraine,UKR,2012,7.117
+Ukraine,UKR,2013,7.355
+Ukraine,UKR,2014,6.635
+Ukraine,UKR,2015,6.945
+Ukraine,UKR,2016,6.756
+Ukraine,UKR,2017,6.995
+Uruguay,URY,2010,8.594
+Uruguay,URY,2011,8.635
+Uruguay,URY,2012,8.764
+Uruguay,URY,2013,8.82
+Uruguay,URY,2014,8.77
+Uruguay,URY,2015,9.008
+Uruguay,URY,2016,9.156
+Uruguay,URY,2017,9.296
+United States,USA,2010,16.412
+United States,USA,2011,16.376
+United States,USA,2012,16.372
+United States,USA,2013,16.348
+United States,USA,2014,16.532
+United States,USA,2015,16.84
+United States,USA,2016,17.197
+United States,USA,2017,17.061
+Uzbekistan,UZB,2010,5.596
+Uzbekistan,UZB,2011,5.675
+Uzbekistan,UZB,2012,6.06
+Uzbekistan,UZB,2013,6.042
+Uzbekistan,UZB,2014,5.676
+Uzbekistan,UZB,2015,6.102
+Uzbekistan,UZB,2016,6.315
+Uzbekistan,UZB,2017,6.414
+Saint Vincent and the Grenadines,VCT,2010,4.551
+Saint Vincent and the Grenadines,VCT,2011,4.465
+Saint Vincent and the Grenadines,VCT,2012,4.688
+Saint Vincent and the Grenadines,VCT,2013,4.57
+Saint Vincent and the Grenadines,VCT,2014,4.403
+Saint Vincent and the Grenadines,VCT,2015,4.264
+Saint Vincent and the Grenadines,VCT,2016,4.35
+Saint Vincent and the Grenadines,VCT,2017,4.487
+Venezuela (Bolivarian Republic of),VEN,2010,6.831
+Venezuela (Bolivarian Republic of),VEN,2011,7.177
+Venezuela (Bolivarian Republic of),VEN,2012,6.448
+Venezuela (Bolivarian Republic of),VEN,2013,5.594
+Venezuela (Bolivarian Republic of),VEN,2014,5.776
+Venezuela (Bolivarian Republic of),VEN,2015,5.129
+Venezuela (Bolivarian Republic of),VEN,2016,3.217
+Venezuela (Bolivarian Republic of),VEN,2017,1.181
+Viet Nam,VNM,2010,5.967
+Viet Nam,VNM,2011,5.874
+Viet Nam,VNM,2012,6.278
+Viet Nam,VNM,2013,6.335
+Viet Nam,VNM,2014,5.783
+Viet Nam,VNM,2015,5.653
+Viet Nam,VNM,2016,5.659
+Viet Nam,VNM,2017,5.532
+Vanuatu,VUT,2010,3.375
+Vanuatu,VUT,2011,3.498
+Vanuatu,VUT,2012,3.765
+Vanuatu,VUT,2013,4.154
+Vanuatu,VUT,2014,3.456
+Vanuatu,VUT,2015,4.158
+Vanuatu,VUT,2016,3.696
+Vanuatu,VUT,2017,3.317
+Samoa,WSM,2010,5.494
+Samoa,WSM,2011,5.425
+Samoa,WSM,2012,4.825
+Samoa,WSM,2013,6.171
+Samoa,WSM,2014,6.228
+Samoa,WSM,2015,5.675
+Samoa,WSM,2016,5.532
+Samoa,WSM,2017,5.483
+Yemen,YEM,2010,5.159
+Yemen,YEM,2011,4.77
+Yemen,YEM,2012,5.196
+Yemen,YEM,2013,4.961
+Yemen,YEM,2014,4.842
+Yemen,YEM,2015,4.235
+Yemen,YEM,2017,4.235
+South Africa,ZAF,2010,7.415
+South Africa,ZAF,2011,7.497
+South Africa,ZAF,2012,7.753
+South Africa,ZAF,2013,7.721
+South Africa,ZAF,2014,7.93
+South Africa,ZAF,2015,8.201
+South Africa,ZAF,2016,8.096
+South Africa,ZAF,2017,8.113
+Zambia,ZMB,2010,3.719
+Zambia,ZMB,2011,3.461
+Zambia,ZMB,2012,3.931
+Zambia,ZMB,2013,4.691
+Zambia,ZMB,2014,3.829
+Zambia,ZMB,2015,4.435
+Zambia,ZMB,2016,4.477
+Zambia,ZMB,2017,4.47
+Zimbabwe,ZWE,2010,10.666
+Zimbabwe,ZWE,2011,7.694
+Zimbabwe,ZWE,2012,6.48
+Zimbabwe,ZWE,2013,6.552
+Zimbabwe,ZWE,2014,7.87
+Zimbabwe,ZWE,2015,7.452
+Zimbabwe,ZWE,2016,7.652
+Zimbabwe,ZWE,2017,6.636
+South Sudan,SSD,2017,9.761
