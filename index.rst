@@ -15,3 +15,4 @@ In this page you will find all relevant information regarding the assignments al
    Project_1_and_2.rst
    Project_3.rst
    Project_4.rst
+   Project_5.rst

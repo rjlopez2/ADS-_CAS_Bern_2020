@@ -1,7 +1,7 @@
 Project 4
 =========
 
-In this project we learnt about version control system and good practice for data science applications.
-in this project we did:
+In this module we learnt about ML and artificial intelligence (my favourite).
+In this project we did:
 
-- A git repository with the CAS projects.
+- Create a machine learning program to detect birdsongs.
