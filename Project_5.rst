@@ -1,7 +1,12 @@
 Project 5
 =========
 
-In this module we learnt about version control system and good practice for data science applications.
-In this project we did:
+In this module we took a number of elective courses for building the curriculum of the CAS.
 
-- A git repository with the CAS projects.
+What electives did I take?
+--------------------------
+- Data science and ML with Dataiku
+- Data ML and deep network with Python
+- Data science and ML with Matlab
+- Mathematical methods for Machine learning
+- R for data science
